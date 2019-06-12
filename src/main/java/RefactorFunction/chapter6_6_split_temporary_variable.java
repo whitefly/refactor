@@ -1,3 +1,5 @@
+package RefactorFunction;
+
 public class chapter6_6_split_temporary_variable {
     double primaryForce;
     double secondaryForce;

@@ -1,3 +1,5 @@
+package RefactorFunction;
+
 public class chapter6_5_Introduce_explaining_variable {
     int quantity;
     double itemPrice;

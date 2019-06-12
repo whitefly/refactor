@@ -1,3 +1,5 @@
+package RefactorFunction;
+
 public class chapter6_8_replace_method_with_method_object {
 
     int show(int inputVal, int quantity, int yearToDate) {

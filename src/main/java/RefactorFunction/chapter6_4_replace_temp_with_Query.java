@@ -1,3 +1,5 @@
+package RefactorFunction;
+
 public class chapter6_4_replace_temp_with_Query {
     private int quantity;
     private int itemPrice;
